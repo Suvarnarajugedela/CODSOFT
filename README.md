@@ -1,11 +1,17 @@
 # CODSOFT
 
 NAME                  : GEDELA SUVARNA RAJU
+
 COMPANY               : CODSOFT
+
 DOMAIN                : WEB DEVELOPMENT
+
 INTERNSHIP START DATE : SEPTEMBER 1
+
 END DATE              : SEPTEMBER 30
+
 DURATION              : 4 WEEKS
+
 Team Leader           : teamleader@codsoft.in
 
 
