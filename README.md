@@ -40,3 +40,10 @@ The Portfolio Development project is designed to showcase, validate, and enhance
 7. **Marketing Yourself**: For freelancers, entrepreneurs, or anyone looking to establish a personal brand, a portfolio project is a powerful marketing tool. It highlights your unique value proposition and can attract potential clients or employers.
 
 8. **Receiving Constructive Feedback**: Presenting a portfolio project can lead to valuable feedback from peers, mentors, or clients, which can help you refine your skills and approach.
+
+==> SECTIONS IN THIS PORTFOLIO TASK :
+
+1.HOME SECTION
+2.ABOUT SECTION
+3.PORTFOLIO SECTION
+4.CONTACT SECTION.
