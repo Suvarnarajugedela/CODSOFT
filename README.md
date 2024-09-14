@@ -17,9 +17,9 @@ Team Leader           : teamleader@codsoft.in
 
 
 
-==> DESCRIPTION ABOUT THE PROJECT:
+==> DESCRIPTION ABOUT THE TASKS:
 
-The Portfolio Development project is designed to showcase, validate, and enhance your skills and experience within [Your Field/Discipline], providing a comprehensive representation of your abilities and achievements. This project aims to create a polished, well-organized collection of your best work, reflecting your growth, problem-solving skills, and unique style.
+1.)The Portfolio Development project is designed to showcase, validate, and enhance your skills and experience within [Your Field/Discipline], providing a comprehensive representation of your abilities and achievements. This project aims to create a polished, well-organized collection of your best work, reflecting your growth, problem-solving skills, and unique style.
 
 
 
@@ -47,3 +47,7 @@ The Portfolio Development project is designed to showcase, validate, and enhance
 2.ABOUT SECTION
 3.PORTFOLIO SECTION
 4.CONTACT SECTION.
+
+2.)TASK NAME IS:CALCULATOR made by using html,css and javascript
+
+This basic calculator performs fundamental arithmetic operations. It demonstrates how to combine HTML for structure, CSS for styling, and JavaScript for interactivity. You can further enhance this calculator by adding features like keyboard support, scientific functions, or more advanced styling.
