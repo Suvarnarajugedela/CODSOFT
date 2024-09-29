@@ -1,0 +1,32 @@
+/*--------------LANDING PAGE------------*/
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>landing page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="banner">
+        <div class="navbar">
+            <img src="logo.png" alt="" class="logo">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Kitchens</a></li>
+                <li><a href="#">Bedrooms</a></li>
+                <li><a href="#">Appartments</a></li>
+                <li><a href="#">Dining</a></li>
+            </ul>
+        </div>
+        <div class="content">
+            <h2>Hi Everyone, My Name is SUVARNARAJU GEDELA</h2>
+            <h4>WELCOME TO INDIA</h4>
+        </div>
+        <div>
+            <button type="button"><span></span>See More</button>
+        </div>
+    </div>
+</body>
+</html>
