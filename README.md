@@ -19,7 +19,9 @@ Team Leader           : teamleader@codsoft.in
 
 ==> DESCRIPTION ABOUT THE TASKS:
 
-1.)The Portfolio Development project is designed to showcase, validate, and enhance your skills and experience within [Your Field/Discipline], providing a comprehensive representation of your abilities and achievements. This project aims to create a polished, well-organized collection of your best work, reflecting your growth, problem-solving skills, and unique style.
+==>1.)**TASK NAME IS:Portfolio is made by using HTML,CSS AND JAVASCRIPT**
+
+The Portfolio Development project is designed to showcase, validate, and enhance your skills and experience within [Your Field/Discipline], providing a comprehensive representation of your abilities and achievements. This project aims to create a polished, well-organized collection of your best work, reflecting your growth, problem-solving skills, and unique style.
 
 
 
@@ -48,6 +50,15 @@ Team Leader           : teamleader@codsoft.in
 3.PORTFOLIO SECTION
 4.CONTACT SECTION.
 
-2.)TASK NAME IS:CALCULATOR made by using html,css and javascript
+==>2.)**SIMPLE LANDING PAGE USING HTML AND CSS**
+A landing page is a standalone web page designed specifically for marketing or advertising campaigns. Unlike your website’s homepage, which has multiple objectives and a variety of information, a landing page focuses on a single goal or call to action (CTA).
+
+Objectives:
+Lead Generation: Capture visitor information through forms to build a database of potential customers.
+Conversion: Encourage visitors to take a specific action, such as making a purchase, signing up for a newsletter, or downloading a resource.
+Promote Offers: Highlight special deals, promotions, or events to drive immediate engagement.
+Inform and Educate: Provide targeted information about a product, service, or topic to guide user decisions.
+
+==>3.)**TASK NAME IS:CALCULATOR made by using html,css and javascript**
 
 This basic calculator performs fundamental arithmetic operations. It demonstrates how to combine HTML for structure, CSS for styling, and JavaScript for interactivity. You can further enhance this calculator by adding features like keyboard support, scientific functions, or more advanced styling.
