@@ -50,7 +50,11 @@ The Portfolio Development project is designed to showcase, validate, and enhance
 3.PORTFOLIO SECTION
 4.CONTACT SECTION.
 
-==>2.)**SIMPLE LANDING PAGE USING HTML AND CSS**
+==>2.)**TASK NAME IS:CALCULATOR made by using html,css and javascript**
+
+This basic calculator performs fundamental arithmetic operations. It demonstrates how to combine HTML for structure, CSS for styling, and JavaScript for interactivity. You can further enhance this calculator by adding features like keyboard support, scientific functions, or more advanced styling.
+
+==>3.)**SIMPLE LANDING PAGE USING HTML AND CSS**
 A landing page is a standalone web page designed specifically for marketing or advertising campaigns. Unlike your website’s homepage, which has multiple objectives and a variety of information, a landing page focuses on a single goal or call to action (CTA).
 
 Objectives:
@@ -58,7 +62,3 @@ Lead Generation: Capture visitor information through forms to build a database o
 Conversion: Encourage visitors to take a specific action, such as making a purchase, signing up for a newsletter, or downloading a resource.
 Promote Offers: Highlight special deals, promotions, or events to drive immediate engagement.
 Inform and Educate: Provide targeted information about a product, service, or topic to guide user decisions.
-
-==>3.)**TASK NAME IS:CALCULATOR made by using html,css and javascript**
-
-This basic calculator performs fundamental arithmetic operations. It demonstrates how to combine HTML for structure, CSS for styling, and JavaScript for interactivity. You can further enhance this calculator by adding features like keyboard support, scientific functions, or more advanced styling.
